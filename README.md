@@ -17,13 +17,13 @@ Covers:
 ## Install
 
 ```bash
-npx skills add muperdev/collabute-agent-skills --skill collabute-mcp
+npx skills add collabute/collabute-agent-skills --skill collabute-mcp
 ```
 
 ## List skills in this repo
 
 ```bash
-npx skills add muperdev/collabute-agent-skills --list
+npx skills add collabute/collabute-agent-skills --list
 ```
 
 ## Local development
