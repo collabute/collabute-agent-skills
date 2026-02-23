@@ -5,6 +5,10 @@ license: MIT
 metadata:
   author: collabute
   version: "1.0.0"
+  repository: https://github.com/collabute/collabute-agent-skills
+  canonical_owner: collabute
+  deprecated_owner_paths:
+    - muperdev/collabute-agent-skills
 ---
 
 # Collabute MCP

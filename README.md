@@ -2,6 +2,9 @@
 
 Skills for AI coding agents to use Collabute MCP correctly and safely.
 
+Canonical repository: `collabute/collabute-agent-skills`  
+Legacy owner path `muperdev/collabute-agent-skills` is deprecated.
+
 ## Available skills
 
 ### collabute-mcp
